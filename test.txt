@@ -1,2 +1,4 @@
 Hallo meine Freunde
 
+strg+o für speichern
+strg+x für verlassen
